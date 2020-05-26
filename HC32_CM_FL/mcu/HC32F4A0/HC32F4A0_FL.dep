@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>3660175547</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Debug\Obj\flash_loader.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\flash_loader.o</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F4A0\misc\hc32f4a0_drv.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F4A0\misc\FlashHC32.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\flash_loader_asm.o</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F4A0\misc\flash_loader.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\HC32F4A0_FL.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\hc32f4a0_drv.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\hc32f4a0_drv.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\FlashHC32.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\FlashHC32.pbi</file>
+      <file>$PROJ_DIR$\..\..\source\framework2\flash_loader.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\..\HC32F460\hc32f460_drv.c</file>
+      <file>$PROJ_DIR$\..\HC32F460\hc32f460_drv.h</file>
+      <file>$PROJ_DIR$\..\..\source\framework2\flash_loader_extra.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\..\..\source\flash_config.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xtls.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocaleuse.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xmtx.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\wchar.h</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F4A0\HC32F4A0_FL.out</file>
+      <file>$PROJ_DIR$\hc32f4a0.h</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F4A0\misc\flash_loader.pbi</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F4A0\misc\flash_loader.o</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F4A0\misc\flash_loader_asm.o</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F4A0\misc\HC32F4A0_FL.pbd</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F4A0\misc\hc32f4a0_drv.pbi</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F4A0\misc\FlashHC32.o</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F4A0\misc\FlashHC32.pbi</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F4A0\misc\hc32f4a0_drv.o</file>
+      <file>$PROJ_DIR$\..\..\source\framework2\flash_loader.c</file>
+      <file>$PROJ_DIR$\..\..\source\FlashHC32.c</file>
+      <file>$PROJ_DIR$\Debug\Exe\HC32F4A0_FL.out</file>
+      <file>$PROJ_DIR$\hc32f4a0_drv.c</file>
+      <file>$PROJ_DIR$\..\..\source\framework2\flash_loader_asm.s</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F4A0\FlashHC32F4A0.out</file>
+      <file>$PROJ_DIR$\..\..\source\flashloader_drv.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ctype.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocale.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocale_c.h</file>
+      <file>$PROJ_DIR$\hc32f4a0_drv.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm4.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmSimd.h</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$PROJ_DIR$\HC32F4A0_ram.icf</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F4A0\misc\HC32F4A0_FL.map</file>
+      <file>$PROJ_DIR$\..\HC32M423\hc32m423_drv.c</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F4A0\misc\FlashHC32F4A0.map</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 43 68</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\output\HC32F4A0\HC32F4A0_FL.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 64 31 32 35 37 61 65 62 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\source\framework2\flash_loader.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 11 23 12 21 13 22 19 20 18 14 17</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20 22 21 17 12 18 19 11 23 13 14</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\source\FlashHC32.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 35</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 3</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 54 50 21 13 22 19 20 18 14 45 47 49 48 52 46 51 24 26 25 53 27 29 57 12 56 59 58 55 60 44 11 23 17</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20 52 59 44 51 57 12 49 21 22 45 53 46 17 18 19 13 55 54 50 48 29 11 47 14 24 25 26 27 58 23 56 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\hc32f4a0_drv.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 37</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 2</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 54 50 21 13 22 19 20 18 14 45 47 49 48 52 46 51 24 26 25 53 27 29 57 12 56 59 58 55 60 44 11 23 17</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 12 59 25 27 48 13 14 18 21 50 29 47 24 26 55 49 46 44 17 45 22 19 20 52 51 53 57 58 23 54 56 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\source\framework2\flash_loader_asm.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 32</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\output\HC32F4A0\FlashHC32F4A0.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 64 31 32 35 37 61 65 62 63</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

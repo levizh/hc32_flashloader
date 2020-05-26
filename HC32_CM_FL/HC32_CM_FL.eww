@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\mcu\HC32F460\HC32F460_FL.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\mcu\HC32F4A0\HC32F4A0_FL.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\mcu\HC32M423\HC32M423_FL.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+

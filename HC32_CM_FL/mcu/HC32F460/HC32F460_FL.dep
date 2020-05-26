@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2069539283</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\HC32F46_ram.icf</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$PROJ_DIR$\Debug\List\HC32F460_FL.map</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F460\misc\HC32F460_FL.map</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F460\FlashHC32F46x.out</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F460\misc\FlashHC32.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\hc32f460_drv.o</file>
+      <file>$PROJ_DIR$\hc32f460_drv.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmSimd.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F460\misc\FlashHC32.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F460\misc\FlashHC32.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm4.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F460\misc\hc32f460_drv.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\flash_loader.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F460\misc\hc32f460_drv.o</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F460\misc\flash_loader.o</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F460\misc\flash_loader.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F460\misc\flash_loader.pbi</file>
+      <file>$PROJ_DIR$\hc32f460_reg.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\wchar.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F460\misc\hc32f460_drv.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocale.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xtls.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocale_c.h</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F460\misc\HC32F460_FL.pbd</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocaleuse.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xmtx.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ctype.h</file>
+      <file>$PROJ_DIR$\..\..\source\flashloader_drv.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\FlashHC32.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\flash_loader_asm.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\hc32f460_drv.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F460\misc\flash_loader_asm.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\flash_loader.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\flash_loader.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\hc32f460_drv.pbi</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F460\HC32F460_FL.out</file>
+      <file>$PROJ_DIR$\Debug\Obj\FlashHC32.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\HC32F460_FL.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\FlashHC32.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\source\flash_config.h</file>
+      <file>$PROJ_DIR$\..\..\source\framework2\flash_loader.h</file>
+      <file>$PROJ_DIR$\..\..\source\framework2\flash_loader_extra.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\HC32F460_FL.out</file>
+      <file>$PROJ_DIR$\..\..\source\FlashHC32.c</file>
+      <file>$PROJ_DIR$\..\..\source\framework2\flash_loader.c</file>
+      <file>$PROJ_DIR$\..\..\source\framework2\flash_loader_asm.s</file>
+      <file>$PROJ_DIR$\hc32f460_drv.c</file>
+      <file>$PROJ_DIR$\HC32F460_ram.icf</file>
+      <file>$PROJ_DIR$\..\..\output\HC32F460\misc\FlashHC32F46x.map</file>
+      <file>$PROJ_DIR$\..\HC32F4A0\hc32f4a0_drv.c</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\..\..\output\HC32F460\FlashHC32F46x.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 70</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 69 26 53 8 25 1 2 3 4</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\output\HC32F460\HC32F460_FL.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 69 26 53 8 25 1 2 3 4</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 7 70</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\HC32F460_FL.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 0 54 51 50 9 1 2 3 4</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\source\FlashHC32.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10 19 11 15 49 32 31 38 37 35 36 33 41 44 47 39 40 46 45 42 30 29 21 20 16 22 12 14 13 48 62 61 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31 22 48 44 33 11 49 39 20 14 47 63 35 38 32 42 10 19 41 29 62 15 36 37 61 40 45 46 30 21 16 13 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\source\framework2\flash_loader.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 26</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 27</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 62 61 20 11 15 49 32 31 38 37 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31 49 11 63 20 38 32 62 61 15 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\source\framework2\flash_loader_asm.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 53</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\hc32f460_drv.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 25</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10 19 11 15 49 32 31 38 37 35 36 33 41 44 47 39 40 46 45 42 30 29 21 20 16 22 12 14 13 48 62 61 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 49 22 33 44 48 31 39 20 14 47 63 35 38 32 42 19 41 29 62 15 36 37 61 10 40 45 46 30 21 16 13 12</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
